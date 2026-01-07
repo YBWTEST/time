@@ -2,7 +2,8 @@
     "email_enabled": true,
     "smtp_server": "smtp.qq.com",
     "smtp_port": 587,
-    "sender_email": "939454748@qq.com",
-    "sender_password": "iriyzgtpknjgbfac",
-    "receiver_emails": "ybw939454748@gmail.com"
+    "sender_email": "2293223584@qq.com",
+    "sender_password": "rfumcekfphkedihd",
+    "receiver_emails": "939454748@qq.com"
+
 }
