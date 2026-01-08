@@ -1,0 +1,25 @@
+{
+  "uicc": [
+    "CtsCarrierApiTestCases",
+	"signed-CtsSecureElementAccessControlTestCases1",
+	"signed-CtsSecureElementAccessControlTestCases2",
+	"signed-CtsSecureElementAccessControlTestCases3",
+    "GtsSimAppDialogTestCases"
+  ],
+  "sim": [
+	"GtsDialerAudioTestCases",
+    "GtsGmscoreHostTestCases",
+    "GtsTelephonyNumberVerificationHostCases",
+	"CtsSimPhonebookProviderTestCases",
+	"CtsNetTestCases",
+	"CtsTetheringTest",
+	"CtsStatsdAtomHostTestCases",
+	"CtsVcnTestCases",
+    "CtsNetTestCasesMaxTargetSdk30",
+	"CtsNetTestCasesMaxTargetSdk31",
+	"CtsNetTestCasesMaxTargetSdk33",
+	"CtsNativeNetDnsTestCases",
+	"CtsNetTestCasesUpdateStatsPermission"
+	
+  ]
+}
