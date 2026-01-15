@@ -4,14 +4,22 @@
 	"signed-CtsSecureElementAccessControlTestCases1",
 	"signed-CtsSecureElementAccessControlTestCases2",
 	"signed-CtsSecureElementAccessControlTestCases3",
-    "GtsSimAppDialogTestCases"
+    "GtsSimAppDialogTestCases",
+	"VtsHalSecureElementV1_0TargetTest"
   ],
   "sim": [
 	"GtsDialerAudioTestCases",
     "GtsGmscoreHostTestCases",
     "GtsTelephonyNumberVerificationHostCases",
+	"CtsPermissionTestCases",
+	"CtsPermissionTestCases[instant]",
 	"CtsSimPhonebookProviderTestCases",
+	"CtsTelephony3TestCases",
+	"CtsTelephonyTestCases",
+	"CtsHostsideNetworkTests",
+	"CtsHostsideNetworkTests[instant]",
 	"CtsNetTestCases",
+	"CtsNetTestCases[instant]",
 	"CtsTetheringTest",
 	"CtsStatsdAtomHostTestCases",
 	"CtsVcnTestCases",
@@ -19,7 +27,15 @@
 	"CtsNetTestCasesMaxTargetSdk31",
 	"CtsNetTestCasesMaxTargetSdk33",
 	"CtsNativeNetDnsTestCases",
-	"CtsNetTestCasesUpdateStatsPermission"
-	
+	"CtsNetTestCasesUpdateStatsPermission",
+	"VtsHalRadioV1_0TargetTest",
+	"VtsHalRadioV1_1TargetTest",
+	"VtsHalRadioV1_2TargetTest",
+	"VtsHalRadioV1_3TargetTest",
+	"VtsHalRadioV1_4TargetTest",
+	"VtsHalRadioV1_5TargetTest",
+	"VtsHalRadioV1_6TargetTest",
+	"VtsHalSecureElementV1_1TargetTest",
+	"VtsHalSecureElementV1_2TargetTest"	
   ]
 }
