@@ -2,11 +2,13 @@
   {
     "username": "admin",
     "password": "your_secure_password",
-    "hwid": "GMS_SAFE_YOUR_MACHINE_ID_HERE"
+    "hwid": "GMS_SAFE_YOUR_MACHINE_ID_HERE",
+    "note": "管理员账户 (张三)"
   },
   {
     "username": "user2",
     "password": "user2_password",
-    "hwid": "GMS_SAFE_ANOTHER_ID"
+    "hwid": "GMS_SAFE_ANOTHER_ID",
+    "note": "普通用户 (李四)"
   }
 ]
