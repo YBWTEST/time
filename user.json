@@ -1,0 +1,12 @@
+[
+  {
+    "username": "admin",
+    "password": "your_secure_password",
+    "hwid": "GMS_SAFE_YOUR_MACHINE_ID_HERE"
+  },
+  {
+    "username": "user2",
+    "password": "user2_password",
+    "hwid": "GMS_SAFE_ANOTHER_ID"
+  }
+]
